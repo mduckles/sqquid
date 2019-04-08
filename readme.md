@@ -124,6 +124,11 @@ picocom /dev/tty.SLAB_USBtoUART -b115200
 # Get a Python Prompt 
 >>>
 ```
+# Get a Python Prompt 
+>>> s = Servo(Pin(pin))
+>>> s.write_angle(0)
+>>> s.write_angle(180)
+
 
 ---
 
