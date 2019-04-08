@@ -5,6 +5,25 @@
 
 ---
 
+## Supplies used 
+
+* 3x - [SG90 Servos](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
+* 1x - Nodemcu Lua ESP8266 CP2102 Wifi Microcontorller
+* 1x - USB Battery 
+* 1x - pushbutton
+
+---
+
+## 3D printed parts
+
+3D printed parts were printed on a Creality CR-10. 
+
+* Squid upper head - FIXME - Link to STL file
+* 3xServo mounts - https://www.thingiverse.com/thing:3451689
+* Squid Tentacle Segments - FIXME - Link to STL file
+
+---
+
 ## Setup the ESP8266 
 ```bash
 # Erase Flash
