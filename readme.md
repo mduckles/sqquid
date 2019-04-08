@@ -1,5 +1,5 @@
 
-# Micah's Squid 
+# Squid Aspire Project 2019 - Year 8 Term 1 
 
 ![](https://jduckles-dropshare.s3-us-west-2.amazonaws.com/IMG_20190324_141346.jpg)
 
