@@ -14,6 +14,10 @@
 
 ---
 
+<iframe src="https://drive.google.com/file/d/1abEFXJFJ8sHjzLEGWEIlEMn0OekTuqwE/preview" width="640" height="480"></iframe>
+
+---
+
 ## 3D printed parts
 
 3D printed parts were printed on a Creality CR-10. 
